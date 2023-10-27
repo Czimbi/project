@@ -2,6 +2,6 @@ streamlit
 pandas
 matplotlib
 numpy
-scikitlearn
+scikit_learn
 plotly
 seaborn
