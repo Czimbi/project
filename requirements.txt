@@ -4,3 +4,4 @@ matplotlib
 numpy
 scikitlearn
 plotly
+seaborn
